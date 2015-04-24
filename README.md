@@ -9,6 +9,7 @@ In order to successfully complete this assignment, you will need to fulfill the 
 * Take care of all the TODOs listed in the `index.html` file and the `js/main.js` file. (If you get stuck on the Leaflet.js implementation, you should consult the `js/example-leaflet.js` file.)
 * Add a carousel of images rotating to the top of the page as indicated in the `index.html` file.
 * Add a tabbed information display to the **About** section as indicated in the `index.html` file.
+* Enhance the styling as indicated in several places throughout the `index.html` file.
 * Add a map to the **Map** section as indicated in the `index.html` and `js/main.js` files.
 
 ## Stretch Goals
@@ -19,5 +20,6 @@ If you wish to extend or enhance your experience this week, try going for one or
 * Use Bootstrap's `affix` feature to make the top navigation stick to the top of the page as you scroll.
 * Create a "smooth scroll" effect using jQuery so when a user clicks the navigation they are smoothly transported to the proper place on the page.
 * Make great use of icons (`glyphicons`) you have available through Bootstrap (or add FontAwesome if you need more).
+* Make everything a lot more beautiful with your own design concept.
 
 
