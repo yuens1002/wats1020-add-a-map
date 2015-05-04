@@ -12,6 +12,8 @@ In order to successfully complete this assignment, you will need to fulfill the 
 * Enhance the styling as indicated in several places throughout the `index.html` file.
 * Add a map to the **Map** section as indicated in the `index.html` and `js/main.js` files.
 
+**NOTE:** You can refer to the `target_layout_wireframe.png` file in the root of this repository to help clarify the goal layout we are trying to create. 
+
 ## Stretch Goals
 If you wish to extend or enhance your experience this week, try going for one or more of the following goals:
 
