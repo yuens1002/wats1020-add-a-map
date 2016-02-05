@@ -1,8 +1,29 @@
 /* ==========================================================================
-   Author's custom styles
+
+	WATS 1020 - Winter 2016 Quarter
+	Add A Map Assignment
+	Sunny Yuen
+
    ========================================================================== */
 
-#map-container { height: 180px; }
+body,
+.container {
+	padding-bottom: 2rem;
+	max-width: 900px;
+	margin: auto;
+}
+
+blockquote {
+	margin-top: 2rem;
+}
+
+.tab-pane {
+	padding-top: 2rem;
+}
+
+#map-container { 
+	height: 40rem; 
+}
 
 
 
