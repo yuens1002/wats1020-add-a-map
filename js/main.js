@@ -47,7 +47,7 @@ marker.bindPopup("<b>Welcome to Mt. Rainier!</b><br>This peak is 4,392 feet high
 	chrisFalls.bindPopup("<b>Christine Falls</b><br>The final waterfall along Van Trump Creek, falling 69 feet in drops of 32 and 37 feet respectively");
 	
 	var wonderLandTrail = L.marker([46.768, -121.730]).addTo(map);
-	wonderLandTrail.bindPopup("<b>Wonderland Trail</b><br>Trail along this scenic view of the amazing Reflection Lake while visiting Mt. Rainier");
+	wonderLandTrail.bindPopup("<b>Wonderland Trail</b><br>Experience the amazing scenic view of Reflection Lake while visiting Mt. Rainier");
 
 });
 
